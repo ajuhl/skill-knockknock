@@ -1,0 +1,7 @@
+{
+  "utterance": "knock knock",
+  "intent_type": "KnockKnockIntent",
+  "intent": {
+    "KnockKnockKeyword": "knock knock"
+  }
+}
